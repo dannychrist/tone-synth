@@ -1,7 +1,7 @@
 import React from 'react';
 
-function App() {
-  return <h1>Let's start!</h1>;
+const App = () => {
+  return <h1>tone-synth</h1>;
 }
 
 export default App;
